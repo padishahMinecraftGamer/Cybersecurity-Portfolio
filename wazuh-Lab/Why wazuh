@@ -1,0 +1,1 @@
+For the learning purposes of creating a home lab to simulate attacks to an organisation, I've landed upon utilising the wazuh as the XDR. I will talk more about the process of choosing wazuh, with it's positives and negatives and how I've set it up and troubleshooted with links to the resources I've used.
